@@ -1,0 +1,29 @@
+_repo: Prince-Jan-St.-Bernard_14893
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hooker, Forrestine C. (Forrestine Cooper)
+    alias: Cooper, Forrestine
+    birthdate: 1867
+    deathdate: 1932
+    gutenberg_agent_id: '5736'
+    url: http://www.gutenberg.org/2009/agents/5736
+description: ''
+gutenberg_bookshelf: Animals-Domestic
+gutenberg_issued: '2005-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14893'
+  lccn: '21017576'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Dogs -- Folklore'
+title: Prince Jan, St. Bernard
+url: http://www.gutenberg.org/ebooks/14893
